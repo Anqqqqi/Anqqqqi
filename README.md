@@ -6,9 +6,6 @@ I am Open to Digital Design，RTL Design， SoC design , ASIC, FPGA ,Verificatio
 
 I will Graduate at Dec 2024. 
 
-The joy of life lies in optimistically solving problems.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on getting a job .
 - 🌱 I’m currently learning UVM of Verification.
