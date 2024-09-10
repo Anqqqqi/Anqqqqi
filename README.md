@@ -10,4 +10,4 @@ I will Graduate at Dec 2024.
 - 🔭 I’m currently working on getting a job .
 - 🌱 I’m currently learning UVM of Verification.
 - ⚡ Fun fact: I have a cat // I am left handed // AFOLs LEGO builders.
--->
+
