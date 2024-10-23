@@ -6,6 +6,7 @@ I am Open to Digital Design, Digital Physical Design，RTL Design，STA， SoC d
 I will Graduate at Dec 2024. 
 
 I have shared some of my study summaries on the following website.
+-
 https://alluring-crop-788.notion.site/digital-ic-backend-design-related-knowledge-summary-7b80c58ac0914ba8a136e21c38836cf5
 
 
